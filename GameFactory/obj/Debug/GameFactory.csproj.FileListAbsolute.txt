@@ -1,0 +1,8 @@
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\GameFactory\bin\Debug\GameFactory.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\GameFactory\bin\Debug\GameFactory.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\GameFactory\bin\Debug\Team Games.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\GameFactory\bin\Debug\Team Games.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\GameFactory\obj\Debug\GameFactory.csprojResolveAssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\GameFactory\obj\Debug\GameFactory.csproj.CoreCompileInputs.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\GameFactory\obj\Debug\GameFactory.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\GameFactory\obj\Debug\GameFactory.pdb

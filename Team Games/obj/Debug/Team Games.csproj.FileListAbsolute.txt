@@ -1,0 +1,6 @@
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\Team Games\bin\Debug\Team Games.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\Team Games\bin\Debug\Team Games.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\Team Games\obj\Debug\Team Games.csproj.CoreCompileInputs.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\Team Games\obj\Debug\Team Games.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\Team Games\obj\Debug\Team Games.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Team Games\Team Games\obj\Debug\Team Games.csprojResolveAssemblyReference.cache
